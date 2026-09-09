@@ -1,16 +1,36 @@
-## Hi there 👋
+# Kim Seorang
 
-<!--
-**Kseorang1218/Kseorang1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Student in Mechanical Engineering @ University of Seoul  
+Interested in On-Device AI, Embedded Systems, and Machine Anomaly Detection
 
-Here are some ideas to get you started:
+## Research Interests
+- On-Device AI / Edge AI
+- Test-Time Adaptation
+- Machine Anomaly Detection & PHM
+- Embedded AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python · C · PyTorch · ONNX · OpenCV · CUDA
+STM32 · Raspberry Pi · FreeRTOS · X-CUBE-AI · TensorFlow Lite
+
+## Featured Projects
+
+### On-Device Online Test-Time Adaptation for Machine Anomaly Detection
+Lightweight source-free online adaptation for machine anomaly detection,
+evaluated on resource-constrained edge devices.
+
+### MCU-based Rotating Machinery Fault Diagnosis
+Deployed a lightweight deep learning model on STM32 NUCLEO-F401RE
+with FreeRTOS and X-CUBE-AI.
+
+### BartendAiRtist
+AI-powered automated cocktail system.
+Developed the Android application and device communication using Kotlin and Bluetooth.
+🏆 Excellence Award, Embedded Software Contest
+
+### Real-Time Vibration Monitoring System
+Real-time vibration acquisition and web monitoring system
+using Python, Node.js, and embedded sensing devices.
+
+## Contact
+switch1218@naver.com
