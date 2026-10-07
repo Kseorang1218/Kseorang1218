@@ -1,13 +1,13 @@
 # Kim Seorang
 
-M.S. Student in Mechanical Engineering @ University of Seoul  
+M.S. Student in Mechanical and Information Engineering @ University of Seoul (Expected Graduation: Feb. 2027)
 Interested in On-Device AI, Embedded Systems, and Machine Anomaly Detection
 
 ## Research Interests
 - On-Device AI / Edge AI
-- Test-Time Adaptation
-- Prognostics and Health Management
 - Embedded Systems
+- Test-Time Adaptation
+- Prognostics and Health Management / Machine Anomaly Detection
 
 ## Tech Stack
 Python, C, PyTorch, X-CUBE-AI, TensorFlow Lite, ONNX,  
@@ -29,7 +29,7 @@ Developed the Android application and device communication using Kotlin and Blue
 
 ### Vibration Monitoring System
 vibration acquisition and web monitoring system
-using Python, Node.js, and embedded sensing devices.
+using Python, Node.js, and USB accelerometer
 
 ## Contact
 switch1218@naver.com
