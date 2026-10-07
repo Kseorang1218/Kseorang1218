@@ -22,6 +22,10 @@ evaluated on resource-constrained edge devices.
 ### MCU-based Rotating Machinery Fault Diagnosis
 Deployed a lightweight deep learning model on STM32 NUCLEO-F401RE with X-CUBE-AI
 
+### Non-Contact Rotating Machine Fault Diagnosis using Smartphone Camera
+Non-contact fault diagnosis using smartphone camera video.
+Developed a 1D CNN-based deep learning model using marker displacement signals.
+
 ### BartendAiRtist
 AI-powered automated cocktail system.
 Developed the Android application and device communication using Kotlin and Bluetooth.  
