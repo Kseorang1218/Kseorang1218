@@ -1,6 +1,6 @@
 # Kim Seorang
 
-M.S. Student in Mechanical and Information Engineering @ University of Seoul (Expected Graduation: Feb. 2027)
+M.S. Student in Mechanical and Information Engineering @ University of Seoul (Expected Graduation: Feb. 2027)  
 Interested in On-Device AI, Embedded Systems, and Machine Anomaly Detection
 
 ## Research Interests
