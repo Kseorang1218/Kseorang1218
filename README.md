@@ -6,8 +6,8 @@ Interested in On-Device AI, Embedded Systems, and Machine Anomaly Detection
 ## Research Interests
 - On-Device AI / Edge AI
 - Test-Time Adaptation
-- Machine Anomaly Detection & PHM
-- Embedded AI Systems
+- Prognostics and Health Management
+- Embedded Systems
 
 ## Tech Stack
 Python, C, PyTorch, X-CUBE-AI, TensorFlow Lite, ONNX,  
@@ -27,8 +27,8 @@ AI-powered automated cocktail system.
 Developed the Android application and device communication using Kotlin and Bluetooth.  
 🏆 [임베디드SW경진대회 수상작](https://www.eswcontest.or.kr/data/award.php?ptype=view&idx=5206&page=1&code=award&category=61)
 
-### Real-Time Vibration Monitoring System
-Real-time vibration acquisition and web monitoring system
+### Vibration Monitoring System
+vibration acquisition and web monitoring system
 using Python, Node.js, and embedded sensing devices.
 
 ## Contact
